@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Welcome to my Github page!
 
+
+Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-langfield)
+
+
+Visitor count 
 ![Visitor Count](https://profile-counter.glitch.me/chris-langfield/count.svg)
