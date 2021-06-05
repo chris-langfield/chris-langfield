@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ```
-![Visitor Count](https : //profile-counter.glitch.me/chris-langfield/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/chris-langfield/count.svg)
 ```
