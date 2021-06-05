@@ -17,6 +17,27 @@ Here are some ideas to get you started:
 
 ### Welcome to my Github page!
 
+#### More serious projects
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=pyfsf)
+
+#### Twitter bots 🤖
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=CrossRoadsBot)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=FlavorMoleculeBot)
+
+#### Miscellaneous
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=Blue-VM)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=nielsen-and-chuang-solutions)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=SHA-256)
+
+
+
+
 
 Most used languages
 
