@@ -19,19 +19,31 @@ Here are some ideas to get you started:
 
 #### More serious projects
 
+[Neuroimaging analysis](https://github.com/chris-langfield/pyfsf)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=pyfsf)
 
 #### Twitter bots 🤖
 
+[CrossRoadsBot](https://github.com/chris-langfield/CrossRoadsBot)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=CrossRoadsBot)
+
+[FlavorMoleculeBot](https://github.com/chris-langfield/FlavorMoleculeBot)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=FlavorMoleculeBot)
 
 #### Miscellaneous
 
+[Experimental VM in C](https://github.com/chris-langfield/Blue-VM)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=Blue-VM)
 
+[Some textbook solutions](https://github.com/chris-langfield/nielsen-and-chuang-solutions)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=nielsen-and-chuang-solutions)
+
+[SHA-256 algorithm](https://github.com/chris-langfield/SHA-256)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=SHA-256)
 
