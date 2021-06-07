@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [Neuroimaging analysis](https://github.com/chris-langfield/pyfsf)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=pyfsf)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chris-langfield&repo=fslfeatsetup)
 
 #### Twitter bots 🤖
 
