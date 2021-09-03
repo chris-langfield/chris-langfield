@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 ### Welcome to my Github page!
 
-#### More serious projects
-
-[Neuroimaging analysis: fslfeatsetup python package](https://github.com/chris-langfield/pyfsf)
-
-
 #### Twitter bots 🤖
 
 [CrossRoadsBot](https://github.com/chris-langfield/CrossRoadsBot)
