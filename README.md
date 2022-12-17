@@ -15,27 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my Github page!
+### Chris Langfield
 
-#### Twitter bots 🤖
+Research Software Engineer working on [ASPIRE](https://github.com/ComputationalCryoEM/ASPIRE-Python) 🔬🦠 @ Princeton University
+
+* [LinkedIn](https://www.linkedin.com/in/chrislangfield/)
+
+* [ORCID](https://orcid.org/0000-0003-4151-203X)
+
+[Princeton RSE Group](https://researchcomputing.princeton.edu/services/research-software-engineering) | [Program in Applied and Computational Mathematics](https://www.pacm.princeton.edu/)
+
+------------------------------------------------
+
+Previously:
+
+Research Assistant/Data Manager at [Cognitive Neuroscience of Aging Laboratory](http://www.columbia.edu/cu/cna/index.html) :brain: @ Columbia University Medical Center
+
+------------------------------------------------
+
+
+Still here? Check out my Twitter bots 🤖 
 
 [CrossRoadsBot](https://github.com/chris-langfield/CrossRoadsBot)
 
 
 [FlavorMoleculeBot](https://github.com/chris-langfield/FlavorMoleculeBot)
-
-
-#### Miscellaneous
-
-[Experimental VM in C](https://github.com/chris-langfield/Blue-VM)
-
-
-[Some textbook solutions](https://github.com/chris-langfield/nielsen-and-chuang-solutions)
-
-
-[SHA-256 algorithm](https://github.com/chris-langfield/SHA-256)
-
-
-Visitor count 
-
-![Visitor Count](https://profile-counter.glitch.me/chris-langfield/count.svg)
