@@ -17,19 +17,20 @@ Here are some ideas to get you started:
 
 ### Chris Langfield
 
-Research Software Engineer working on [ASPIRE](https://github.com/ComputationalCryoEM/ASPIRE-Python) 🔬🦠 @ Princeton University
+Research Software Engineer at [International Brain Lab](https://github.com/int-brain-lab) and Columbia University
 
 * [LinkedIn](https://www.linkedin.com/in/chrislangfield/)
 
 * [ORCID](https://orcid.org/0000-0003-4151-203X)
 
-[Princeton RSE Group](https://researchcomputing.princeton.edu/services/research-software-engineering) | [Program in Applied and Computational Mathematics](https://www.pacm.princeton.edu/)
 
 ------------------------------------------------
 
 Previously:
 
-Research Assistant/Data Manager at [Cognitive Neuroscience of Aging Laboratory](http://www.columbia.edu/cu/cna/index.html) :brain: @ Columbia University Medical Center
+- Research Software Engineer working on [ASPIRE](https://github.com/ComputationalCryoEM/ASPIRE-Python) 🔬🦠 @ Princeton University
+
+- Research Assistant/Data Manager at [Cognitive Neuroscience of Aging Laboratory](http://www.columbia.edu/cu/cna/index.html) :brain: @ Columbia University Medical Center
 
 ------------------------------------------------
 
