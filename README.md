@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Research Software Engineer at [International Brain Lab](https://github.com/int-brain-lab) and Columbia University
 
-* [Web](https://chris-langfield.github.io/)
+* [Website](https://chris-langfield.github.io/)
 
 * [LinkedIn](https://www.linkedin.com/in/chrislangfield/)
 
